@@ -1,0 +1,2 @@
+# GNZtrading
+pruebas curso gnz
